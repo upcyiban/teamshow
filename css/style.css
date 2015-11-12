@@ -1063,12 +1063,12 @@
 				width: 1px;
 			}
 
-			.main .container .content {
-				display: inline-block;
-				margin-right: 1px;
-				vertical-align: middle;
-				width: calc(100% - 10px);
-			}
+.main .container .content {
+	display: inline-block;
+	margin-right: 1px;
+	vertical-align: middle;
+	width: calc(100% - 10px);
+}
 
 		.main .goto-next {
 			-moz-transition: background-color 0.2s ease-in-out;
